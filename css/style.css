@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+
+#clock{
+    font-weight: 300;
+    font-size: 120px;
+    margin-bottom: 35px;
+}
+
+#hex-color{
+    font-weight: 24px;
+}
+
